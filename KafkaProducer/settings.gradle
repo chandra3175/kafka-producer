@@ -1,0 +1,4 @@
+rootProject.name = 'KafkaProducer'
+
+//include   ':kafkaclient'
+//project(':kafkaclient').projectDir = new File(settingsDir, '../kafkaclient')
